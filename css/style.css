@@ -1,0 +1,25 @@
+body{
+    background-color : #8dd2dd;
+    font-size: 18px;
+}
+
+h2{
+    font-size: 24px;
+    font-family:Georgia;
+    text-align: center;
+}
+
+p{
+    line-height: 45px;
+}
+
+img{
+    border: solid 5px;
+    padding: 10px;
+    margin: 20px;
+    border-top-right-radius: 30px;
+}
+
+li{
+    margin-left: 50px;
+}
